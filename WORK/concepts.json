@@ -120,55 +120,58 @@
         "author": "Матвей Германенко"
       },
       {
-        "id": "",
-        "description": "",
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Разбор главных ловушек мышления. Эффект подтверждения, ошибка выжившего и эффект Даннинга-Крюгера",
         "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "ловушка мышления",
+          "эффект подтверждения",
+          "ошибка выжевшего",
+          "эффект Даннинга-Крюгера",
+          "когнитивное искажение",
+          "кривая уверенности",
+          "успех",
+          "провал"
         ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "name": "The main traps of thinking",
+        "file": "WEB/4.2/critical_thinking/articles/main_cognitive_distortions.md",
+        "wikidata_id": "Q8539502",
+        "author": "Павел Шилов"
       },
       {
-        "id": "",
-        "description": "",
+        "id": "WEB/4.2/critical_thinking/article",
+        "description": "Отличие факта от мнения: объективная и субъективная сторона вопроса",
         "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "факт",
+          "мнение",
+          "объективная реальность",
+          "субъективная оценка",
+          "поток информации",
+          "истинность",
+          "манипуляция",
+          "доказательства"
         ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "name": "How to distinguish fact from opinion",
+        "file": "WEB/4.2/critical_thinking/articles/fact_and_opinion_differences.md",
+        "wikidata_id": "Q5372056",
+        "author": "Павел Шилов"
       },
       {
-        "id": "",
-        "description": "",
+        "id": "WEB/4.2/critical_thinking/articles",
+        "description": "Эмоции — мощный инструмент манипуляции: как страх, надежда, симпатия и гнев заставляют наш мозг игнорировать факты и принимать иррациональные решения.",
         "lemmas": [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "эмоции",
+          "страх",
+          "надежда",
+          "симпатия",
+          "гнев",
+          "эмоциональная регуялция",
+          "когнитивная переоценка",
+          "лимбическая система"
         ],
-        "name": "",
-        "file": "",
-        "wikidata_id": "",
-        "author": ""
+        "name": "Influence of emotions",
+        "file": "WEB/4.2/critical_thinking/articles/fact_and_opinion_differences.md",
+        "wikidata_id": "Q193902",
+        "author": "Павел Шилов"
       },
       {
         "id": "",
