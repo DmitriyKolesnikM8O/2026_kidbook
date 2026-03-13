@@ -91,4 +91,4 @@
 
 Авторы: Барменков Артемий, @ArtemDelGray;
 
-*Ресурсы: Barbara Minto "The Pyramid Principle", Toyota 5 Whys Manual*
+*Ресурсы: Barbara Minto "The Pyramid Principle", Toyota 5 Whys Manual, LLM - Gemini(Google)*
