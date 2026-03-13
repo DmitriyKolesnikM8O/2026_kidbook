@@ -110,4 +110,4 @@
 
 Авторы: Барменков Артемий, @ArtemDelGray;
 
-*Ресурсы: Google SRE Book (Chapter 15: Postmortem Culture), Ray Dalio "Principles"*
+*Ресурсы: Google SRE Book (Chapter 15: Postmortem Culture), Ray Dalio "Principles", LLM - Gemini(Google)*
