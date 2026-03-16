@@ -26,7 +26,7 @@
         ],
         "name": "Logical inference",
         "file": "WEB/4.2/critical_thinking/articles/methods_of_logical_inference.md",
-        "wikidata_id": "Q170658",
+        "wikidata_id": "Q843894",
         "author": "Дмитрий Колесник"
       },
       {
@@ -44,7 +44,7 @@
         ],
         "name": "Structure of argument and counterargument",
         "file": "WEB/4.2/critical_thinking/articles/logical_errors_and_sophisms.md",
-        "wikidata_id": "Q183067",
+        "wikidata_id": "Q186619",
         "author": "Дмитрий Колесник"
       },
       {
@@ -62,7 +62,7 @@
         ],
         "name": "Logical fallacies and sophisms",
         "file": "WEB/4.2/critical_thinking/articles/anatomy_of_agrument.md",
-        "wikidata_id": "Q186150",
+        "wikidata_id": "Q1483917",
         "author": "Дмитрий Колесник"
       },
       {
@@ -80,7 +80,7 @@
         ],
         "name": "Information verification and fact-checking",
         "file": "WEB/4.2/critical_thinking/articles/information_verification.md",
-        "wikidata_id": "Q3092711",
+        "wikidata_id": "Q59555084",
         "author": "Матвей Германенко"
       },
       {
@@ -98,7 +98,7 @@
         ],
         "name": "Evaluating information sources",
         "file": "WEB/4.2/critical_thinking/articles/source_evaluation.md",
-        "wikidata_id": "Q11032",
+        "wikidata_id": "Q3523102",
         "author": "Матвей Германенко"
       },
       {
@@ -134,7 +134,7 @@
         ],
         "name": "The main traps of thinking",
         "file": "WEB/4.2/critical_thinking/articles/main_cognitive_distortions.md",
-        "wikidata_id": "Q8539502",
+        "wikidata_id": "Q639444",
         "author": "Павел Шилов"
       },
       {
@@ -152,7 +152,7 @@
         ],
         "name": "How to distinguish fact from opinion",
         "file": "WEB/4.2/critical_thinking/articles/fact_and_opinion_differences.md",
-        "wikidata_id": "Q5372056",
+        "wikidata_id": "Q58967793",
         "author": "Павел Шилов"
       },
       {
@@ -170,7 +170,7 @@
         ],
         "name": "Influence of emotions",
         "file": "WEB/4.2/critical_thinking/articles/fact_and_opinion_differences.md",
-        "wikidata_id": "Q193902",
+        "wikidata_id": "Q9415",
         "author": "Павел Шилов"
       },
       {
@@ -187,7 +187,7 @@
         ],
         "name": "Problem structuring and Root Cause Analysis",
         "file": "WEB/4.2/critical_thinking/articles/problem_structuring.md",
-        "wikidata_id": "Q7247508",
+        "wikidata_id": "Q1074664",
         "author": "Артемий Барменков"
       },
       {
@@ -204,7 +204,7 @@
         ],
         "name": "Decision-making models and systems thinking",
         "file": "WEB/4.2/critical_thinking/articles/decision_models.md",
-        "wikidata_id": "Q1331926",
+        "wikidata_id": "Q1074664",
         "author": "Артемий Барменков"
       },
       {
@@ -221,7 +221,7 @@
         ],
         "name": "Reflective practice and Post-mortem analysis",
         "file": "WEB/4.2/critical_thinking/articles/reflection_and_post_mortem.md",
-        "wikidata_id": "Q1455207",
+        "wikidata_id": "Q11089007",
         "author": "Артемий Барменков"
       },
       {
@@ -239,7 +239,7 @@
         ],
         "name": "Recognizing manipulation in media and social networks",
         "file": "WEB/4.2/critical_thinking/articles/manipulation_recognition.md",
-        "wikidata_id": "Q272468",
+        "wikidata_id": "Q106466760",
         "author": "Виктория Османова"
       },
       {
@@ -257,7 +257,7 @@
         ],
         "name": "Propaganda techniques: labels, generalities and equivocation",
         "file": "WEB/4.2/critical_thinking/articles/propaganda_techniques.md",
-        "wikidata_id": "Q130691",
+        "wikidata_id": "Q7281",
         "author": "Виктория Османова"
       },
       {
@@ -275,7 +275,7 @@
         ],
         "name": "Information bubbles and recommendation algorithms",
         "file": "WEB/4.2/critical_thinking/articles/information_bubbles.md",
-        "wikidata_id": "Q4816328",
+        "wikidata_id": "Q269415",
         "author": "Виктория Османова"
       }
     ]
